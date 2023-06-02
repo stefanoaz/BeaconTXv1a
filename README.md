@@ -5,3 +5,5 @@ This transmitter was designed to be a replacement for existing Si5351a based syn
 
 This module is a drop-in replacement for the synthesizer board used by Ken Daniel for his airborne beacon described here:  https://github.com/kenndaniel/K9YO_WSPR Benefits are that it saves about 2 grams of weight vs the Adafruit synth, and is more temperature stable.
 
+Vcc should be between 2.7-3.3V from a regulated source.
+
