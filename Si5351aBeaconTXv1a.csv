@@ -5,7 +5,7 @@ Component Count:,16,,,,,
 Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
 "C1, C3, ",2,0.1uF,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,
 "C2, ",1,22uF,C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,
-"C4, C5, C6, ",3,0.01uF,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,
+"C4, C5, C6, ",3,0.01uF,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor C0G dielectric,
 "R1, R7, ",2,DNP,R,Resistor_SMD:R_0603_1608Metric,Resistor,
 "R2, ",1,0,R,Resistor_SMD:R_0603_1608Metric,Resistor,
 "R4, ",1,2,R,Resistor_SMD:R_0603_1608Metric,Resistor,
